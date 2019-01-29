@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Bottom App Bar Demo</string>
+    <string name="fav">Search</string>
+    <string name="settings">Settings</string>
+    <string name="nav_0">Nav 0</string>
+    <string name="nav_1">Nav 1</string>
+    <string name="nav_2">Nav 2</string>
+</resources>
